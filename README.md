@@ -1,4 +1,4 @@
-# Engineering-calculator
+
 
 CalCul
 Engineering calculator using Python tkinter
@@ -6,8 +6,12 @@ Engineering calculator using Python tkinter
 Note
 Most of the buttons and functions are not yet written. (The program is not complete)
 
-Preview
+Creator
+Created by sepehr sohrabi
+E-mail: ssepehrsohrabinejad@gmail.com
+Github: @sepehr-sohrabi-nejad
 
 
-Uploading 268504354-8f96032c-b8d9-479e-9126-4b99491717f8.mp4…
+
+
 
